@@ -13,8 +13,8 @@
   sup.cite a{display:inline-block; padding:6px 3px; margin:-6px -3px; position:relative;}
   .refs li > a[href^="#cite"]{display:inline-block; padding:8px 10px; margin:-8px -6px;}
 
-  /* the links under the intro ([Paper] [Code] [Cite] [Coauthors]): a taller hit area, same line layout */
-  p.dek-links a, p.dek-links .dek-toggle{display:inline-block; padding:8px 2px; margin:-8px 0;}
+  /* the links under the intro ([Paper] [Code] [Cite]): a taller hit area, same line layout */
+  p.dek-links a{display:inline-block; padding:8px 2px; margin:-8px 0;}
 
   /* play buttons: at least 44 px on every touch-sized screen (the page only did this below 720 px) */
   .play-btn{width:44px; height:44px;}
